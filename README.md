@@ -8,6 +8,7 @@ Space Invaders is a two-dimensional fixed shooter game in which the player contr
 ![Space1](https://github.com/Ahlamx6/Space-Invaders-2DUnity/assets/102240641/0bae3775-1c9c-462f-9643-280bb14401b7)
 
 **- Scoring and Lives**
+
 3 Lives - Player
 
 5 points - Rock
@@ -18,11 +19,11 @@ Space Invaders is a two-dimensional fixed shooter game in which the player contr
  
     Gameplay
     
-![Space2](https://github.com/Ahlamx6/Space-Invaders-2DUnity/assets/102240641/21c7929a-f463-414b-b406-04b3afc3ebf9)
+![space3](https://github.com/Ahlamx6/Space-Invaders-2DUnity/assets/102240641/19a3313a-ab9b-43a8-81c2-aa2786936b92)
 
    Gameover
    
-![space3](https://github.com/Ahlamx6/Space-Invaders-2DUnity/assets/102240641/19a3313a-ab9b-43a8-81c2-aa2786936b92)
+![Space2](https://github.com/Ahlamx6/Space-Invaders-2DUnity/assets/102240641/21c7929a-f463-414b-b406-04b3afc3ebf9)
 
 **- Reference**
 
